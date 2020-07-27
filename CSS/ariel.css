@@ -8,6 +8,7 @@ header{
 	text-align: center;
 }
 
+
 .title{
 	font-family: lucida sans unicode;
 	font-size:50px;
@@ -32,4 +33,15 @@ ol{
 p{
 	text-align: justify;
 	margin: 100px;
+}
+
+h2{
+	color: white;
+	font-size:20px;
+	text-align: right;
+	margin: 20px;
+}
+
+a{
+	color: navy
 }
